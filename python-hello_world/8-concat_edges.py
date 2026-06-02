@@ -1,5 +1,4 @@
 #!/usr/bin/python3
 # tring slicing
-str = "Python is an interpreted, interactive, object-oriented programming\
- language that combines remarkable power with very clear syntax"
-print(str[36:66] + str[93:98] + str[:6])
+str = "Python is an interpreted, interactive, object-oriented programming\language that combines remarkable power with very clear syntax"
+print(str[39:66] + str[106:112] + str[:6])
