@@ -2,4 +2,4 @@
 # tring slicing
 str = "Python is an interpreted, interactive, object-oriented programming\
  language that combines remarkable power with very clear syntax"
-print(str[36:66] + "with " + str[:6])
+print(str[36:66] + str[93:98] + str[:6])
