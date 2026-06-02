@@ -1,4 +1,4 @@
 #!/usr/bin/python3
 #print flot num with f-strings
-num = 333.12
-print(f"Float: {num}")
+number = 3.14159
+print(f"Float: {number}")
