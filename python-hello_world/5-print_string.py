@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# print 3 times the value of str
-str = "Holberton School"
-print(str * 3)
-print(str[:9])
+# print string 3 times and first 9 characters
+str_ = "Holberton School"
+print(str_ * 3)
+print(str_[:9])
